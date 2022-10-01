@@ -1,0 +1,20 @@
+.main-wrapper {
+	margin-top: 20px;
+}
+
+#reg{
+	background-color: black;
+	color: #fff;
+}
+
+
+
+
+.page-title {
+	text-align: center;
+}
+
+.registration-form {
+	width: 800px;
+   margin: auto;
+}
